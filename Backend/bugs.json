@@ -1,0 +1,23 @@
+[
+ {
+  "id": 1,
+  "description": "A random bug 1",
+  "assigned_to": null,
+  "severity": 1,
+  "status": "unassigned"
+ },
+ {
+    "id": 2,
+    "description": "A random bug 2",
+    "assigned_to": null,
+    "severity": 3,
+    "status": "unassigned"
+  },
+  {
+    "id": 3,
+    "description": "A random bug 3",
+    "assigned_to": null,
+    "severity": 2,
+    "status": "unassigned"
+  }
+]
